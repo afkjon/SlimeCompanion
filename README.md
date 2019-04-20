@@ -1,4 +1,4 @@
-** SlimeCompanion **
+# SlimeCompanion
 
 This project was made as an assignment for EECS 4471 at York University.
 
